@@ -128,7 +128,7 @@
           <br>Kubernetes
         </td>
         <td align="center" style="border: none; padding: 10px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
+          <img src="https://www.apono.io/wp-content/uploads/2023/08/1_b_al7C5p26tbZG4sy-CWqw-3.png" width="40" height="40" alt="AWS" />
           <br>AWS
         </td>
         <td align="center" style="border: none; padding: 10px;">
@@ -172,7 +172,7 @@
 
 </div>
 
-<hr>
+<!--<hr>-->
 <!--
 <h2 align="center">My GitHub Activity 📈</h2>
 <div align="center">
