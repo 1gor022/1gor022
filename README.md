@@ -7,7 +7,7 @@
   
   <p>
     I'm a <b>Software Developer</b> from Brazil 🇧🇷 with a strong technical foundation from the Federal Institute of Alagoas (IFAL).<br>
-    My passion is building scalable, high-performance applications with a focus on **Cloud-Native technologies** and **DevOps** principles.<br>
+    My passion is building scalable, high-performance applications with a focus on <b>Cloud-Native technologies</b> and <b>DevOps</b> principles.<br>
     My goal is to solve complex problems and contribute to innovative international teams.
   </p>
 
@@ -15,7 +15,7 @@
     <h3>🔭 What I'm working on:</h3>
     <ul>
       <!-- <li>Finishing my degree in Systems Analysis and Development at Senac EAD.</li> -->
-      <li>Deep-diving into the AWS ecosystem, studying for the **AWS Certified Cloud Practitioner** exam.</li>
+      <li>Deep-diving into the AWS ecosystem, studying for the <b>AWS Certified Cloud Practitioner</b> exam.</li>
       <!-- <li>Building a full-stack, "gringo-ready" project using Next.js, Prisma, Docker, and GitHub Actions (you can see it below!).</li> -->
     </ul>
   </div>
@@ -56,7 +56,7 @@
           <br>TypeScript
         </td>
         <td align="center" style="border: none; padding: 10px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
+          <img src="https://cdn.creazilla.com/icons/3254431/tailwindcss-icon-icon-lg.png" width="40" height="40" alt="Tailwind CSS" />
           <br>Tailwind
         </td>
       </tr>
@@ -141,11 +141,11 @@
 </div>
 
 <hr>
-
+<!--
 <h2 align="center">Featured Projects 🚀</h2>
 <p align="center">Here are some of the projects I'm proud of. (You can see all my work in the 'Repositories' tab).</p>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  
+--
   <div style="background-color: #f5f5f5; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; width: 400px; text-align: left;">
     <h3><a href="[Link-do-Seu-Projeto-1]" target="_blank">🚀 Project 1: Gringo-Ready Trello Clone</a></h3>
     <p>A full-stack, real-time kanban board application. This project was built from scratch focusing on scalability, clean architecture, and a complete DevOps lifecycle.</p>
@@ -168,12 +168,12 @@
       <strong>Stack:</strong> [Go (Golang), Gin Framework, GORM]
     </p>
   </div>
-  -->
-  
+-->
+
 </div>
 
 <hr>
-
+<!--
 <h2 align="center">My GitHub Activity 📈</h2>
 <div align="center">
   <img 
@@ -198,3 +198,4 @@
     alt="GitHub Profile Summary"
   />
 </div>
+-->
