@@ -6,7 +6,7 @@
   </h1>
   
   <p>
-    I'm a **Software Developer** from Brazil 🇧🇷 with a strong technical foundation from the Federal Institute of Alagoas (IFAL).<br>
+    I'm a <b>Software Developer</b> from Brazil 🇧🇷 with a strong technical foundation from the Federal Institute of Alagoas (IFAL).<br>
     My passion is building scalable, high-performance applications with a focus on **Cloud-Native technologies** and **DevOps** principles.<br>
     My goal is to solve complex problems and contribute to innovative international teams.
   </p>
